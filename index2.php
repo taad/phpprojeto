@@ -1,6 +1,6 @@
 <?php 
 
-echo "funciona carai";
+echo "arquivo alterado";
 
 
 ?>
